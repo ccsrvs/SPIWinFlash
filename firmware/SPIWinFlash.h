@@ -27,6 +27,7 @@
 #define SPIFLASH_H
 
 //#include <Arduino.h>
+#include "application.h"
 
 class SPIFlash {
 public:
