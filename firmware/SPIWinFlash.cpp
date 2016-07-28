@@ -23,7 +23,7 @@
  * <http://www.gnu.org/licenses/>.
  */
 
-#include "SPIFlash.h"
+#include "SPIWinFlash.h"
 
 #if defined (__SAM3X8E__) || defined (ARDUINO_ARCH_ESP8266)
  #define _delay_us(us) delayMicroseconds(us)
